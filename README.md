@@ -62,3 +62,10 @@ Contributions are always welcome — feel free to open issues or submit pull req
 
 If you like this project, give it a ⭐ on GitHub!
 It helps a lot and motivates further improvements 😊
+
+
+
+
+
+### 🎮 Live Demo  
+👉 Play Now:https://snake-game-nine-weld.vercel.app/
